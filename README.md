@@ -1,8 +1,8 @@
-# challenge-amigo-secreto - ONE Oracle Next Education
+# challenge amigo secreto - ONE Oracle Next Education
 
 O challenge amigo secreto faz parte do programa ONE Oracle Next Education em conjunto com a Alura! 
 
-# Sorteio de Amigos
+# 🎉 Amigo Secreto
 
 Este é um projeto de sorteio de amigos, onde os usuários podem adicionar nomes a uma lista e sortear um deles aleatoriamente.
 
