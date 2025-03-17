@@ -20,4 +20,4 @@ Este é um projeto de sorteio de amigos, onde os usuários podem adicionar nomes
 
 1. Faça o download dos arquivos ou clone o repositório:
    ```sh
-   git clone https://github.com/seu-usuario/sorteio-amigos.git
+   git clone https://github.com/EwertonVeloso/challenge-amigo-secreto.git
